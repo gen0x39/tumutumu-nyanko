@@ -3,8 +3,9 @@
 
 ***DEMO:***
 
-![Demo](https://image-url.gif)
+[ここで遊べる(今はまだテスト中)](https://tumutumu-nyanko.herokuapp.com/)  
 
+![Demo](https://image-url.gif)
 
 今作ってます．
 
